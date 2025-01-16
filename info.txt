@@ -1,0 +1,9 @@
+{
+  "platform": "win32",
+  "arch": "x64",
+  "cpuCores": 12,
+  "totalMemory": 7966765056,
+  "freeMemory": 1231691776,
+  "uptime": 264844.015,
+  "homeDir": "C:\\Users\\sahil"
+}
